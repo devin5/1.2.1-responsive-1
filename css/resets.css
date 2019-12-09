@@ -128,7 +128,7 @@ table {
   box-sizing: border-box;
 }
 body {
-  background-color: #d0d5ec;
+  background-color: #f5f2f1;
 }
 html,
 body {
@@ -144,4 +144,8 @@ h5 {
   font-family: "Bangers", cursive;
   letter-spacing: 1px;
   margin-bottom: 15px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
 }
